@@ -4,6 +4,10 @@ This CookBook was created by taking notes from diffrent sources and the help of 
 
 Main book can found on [nazimboudeffa.gumroad.com](https://nazimboudeffa.gumroad.com)
 
+## ByteGrad
+
+* [Validate Forms with ZOD](validate-forms.md)
+
 ## Code With Guillaume
 
 * [Create Next App](create.md)
@@ -11,4 +15,6 @@ Main book can found on [nazimboudeffa.gumroad.com](https://nazimboudeffa.gumroad
 
 ## Refs
 
+* [BytGard](https://www.youtube.com/@ByteGrad)
 * [Code With Guillaume](https://www.youtube.com/@codewithguillaume)
+
