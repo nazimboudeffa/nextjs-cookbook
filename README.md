@@ -1,6 +1,6 @@
 # nextjs-cookbook
 
-This CookBook was created with notes from diffrent sources and the help of AI
+This CookBook was created by taking notes from diffrent sources and the help of AI
 
 ## Code With Guillaume
 
