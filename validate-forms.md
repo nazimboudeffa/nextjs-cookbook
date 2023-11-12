@@ -1,7 +1,7 @@
-How to Validate Data in Server Actions with XTS
+How to Validate Data in Server Actions with NEXTJS
 ===============================================
 
-When working with server actions in XTS, it's important to validate the data to ensure accuracy and prevent any potential errors. In this video, the process of validating data in server actions is demonstrated using a server action example. By implementing proper validation, you can enhance the overall functionality and reliability of your applications.
+When working with server actions in NEXTJS, it's important to validate the data to ensure accuracy and prevent any potential errors. In this video, the process of validating data in server actions is demonstrated using a server action example. By implementing proper validation, you can enhance the overall functionality and reliability of your applications.
 
 Introduction
 ------------
