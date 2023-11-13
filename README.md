@@ -18,7 +18,7 @@ Main book can be found for $0+ on [nazimboudeffa.gumroad.com](https://nazimboude
 * [BytGard](https://www.youtube.com/@ByteGrad)
 * [Code With Guillaume](https://www.youtube.com/@codewithguillaume)
 
-## The CookBook
+# The CookBook
 
 The original **React Cookbook** is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License][license]. You are free:
 
