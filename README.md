@@ -1,4 +1,4 @@
-# nextjs-cookbook
+# Nextjs Cookbook
 
 This CookBook was created by taking notes from diffrent sources and the help of AI
 
