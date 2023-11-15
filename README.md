@@ -4,17 +4,6 @@ This CookBook was created by taking notes from diffrent sources and the help of 
 
 Main book can be found for $0+ on [nazimboudeffa.gumroad.com](https://nazimboudeffa.gumroad.com) first and later on [leanpub](https://leanpub.com/u/nazimboudeffa)
 
-# Refs
-
-### ByteGrad
-
-* [Validate Forms with ZOD](validate-forms.md) / https://www.youtube.com/watch?v=tLhcyBfljYo
-
-### Code With Guillaume
-
-* [Create Next App](create.md) / https://www.youtube.com/watch?v=b98dXZqiDXU
-* [Context](context.md) / https://www.youtube.com/watch?v=Wta5DQv_EfA
-
 # The CookBook
 
 The original **React Cookbook** is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License][license]. You are free:
@@ -50,3 +39,16 @@ And I'd also like you to share it, in this form, in PDF, or anything else. Go wi
 Go for it, you are free to make commercial use of the work. For example, you could host it on your site and make money from ads, or write a JS tool and use the book as part of the help content. It's all good, just follow the [license terms][license]. 
 
 ### I found a typo/error!
+
+Open an issue or PR
+
+# Refs
+
+### ByteGrad
+
+* [Validate Forms with ZOD](validate-forms.md) / https://www.youtube.com/watch?v=tLhcyBfljYo
+
+### Code With Guillaume
+
+* [Create Next App](create.md) / https://www.youtube.com/watch?v=b98dXZqiDXU
+* [Context](context.md) / https://www.youtube.com/watch?v=Wta5DQv_EfA
