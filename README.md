@@ -4,6 +4,8 @@ This CookBook was created by taking notes from diffrent sources and the help of 
 
 Main book can be found for $0+ on [nazimboudeffa.gumroad.com](https://nazimboudeffa.gumroad.com) first and later on [leanpub](https://leanpub.com/u/nazimboudeffa)
 
+# Refs
+
 ### ByteGrad
 
 * [Validate Forms with ZOD](validate-forms.md) / https://www.youtube.com/watch?v=tLhcyBfljYo
@@ -12,11 +14,6 @@ Main book can be found for $0+ on [nazimboudeffa.gumroad.com](https://nazimboude
 
 * [Create Next App](create.md) / https://www.youtube.com/watch?v=b98dXZqiDXU
 * [Context](context.md) / https://www.youtube.com/watch?v=Wta5DQv_EfA
-
-## Refs
-
-* [BytGard](https://www.youtube.com/@ByteGrad)
-* [Code With Guillaume](https://www.youtube.com/@codewithguillaume)
 
 # The CookBook
 
