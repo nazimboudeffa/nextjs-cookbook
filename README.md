@@ -6,12 +6,12 @@ Main book can be found for $0+ on [nazimboudeffa.gumroad.com](https://nazimboude
 
 ### ByteGrad
 
-* [Validate Forms with ZOD](validate-forms.md)
+* [Validate Forms with ZOD](validate-forms.md) / https://www.youtube.com/watch?v=tLhcyBfljYo
 
 ### Code With Guillaume
 
-* [Create Next App](create.md)
-* [Context](context.md)
+* [Create Next App](create.md) / https://www.youtube.com/watch?v=b98dXZqiDXU
+* [Context](context.md) / https://www.youtube.com/watch?v=Wta5DQv_EfA
 
 ## Refs
 
