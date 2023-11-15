@@ -40,7 +40,7 @@ Go for it, you are free to make commercial use of the work. For example, you cou
 
 ### I found a typo/error!
 
-Open an issue or PR
+This book is actively maintained. Please just, open an issue. Thanks!
 
 # Refs
 
